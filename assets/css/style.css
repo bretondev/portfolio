@@ -506,3 +506,16 @@ body {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+.progress-box {
+    display : flex;
+}
+
+.progress-box .progress {
+    align-self: flex-end;
+    width : 100%;
+}
+
+.java-icon {
+    color : blue;
+}
