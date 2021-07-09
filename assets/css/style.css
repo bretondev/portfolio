@@ -519,3 +519,7 @@ body {
 .java-icon {
     color : blue;
 }
+
+.flag-icon {
+    line-height: 1.5em;
+}
