@@ -523,3 +523,8 @@ body {
 .flag-icon {
     line-height: 1.5em;
 }
+
+.contribution-logo {
+    width : 75px;
+    height : 75px;
+}
