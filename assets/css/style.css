@@ -455,6 +455,12 @@ body {
     float: right;
     font-size: 0.8rem;
 }
+
+.rit-cover .work-exp h5 span {
+    float: right;
+    font-size: 0.8rem;
+}
+
 .rit-cover .work-exp i {
     font-size: 0.9rem;
 }
@@ -559,6 +565,11 @@ body {
 .skill-icon {
     width : 35px;
     height : 30px;
+}
+
+.company-icon {
+    width : 25px;
+    height : 20px;
 }
 
 .contribution-logo {
