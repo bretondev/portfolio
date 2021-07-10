@@ -520,6 +520,45 @@ body {
     color : blue;
 }
 
+.javascript-icon {
+    color : yellow;
+}
+
+.angular-icon {
+    color : red;
+}
+
+.html5-icon {
+    color : red;
+}
+
+.windows-icon {
+    color : #1E90FF;
+}
+
+.docker-icon {
+    color : #1E90FF;
+}
+
+.node-icon {
+    color : #76ff03;
+}
+
+.aws-icon {
+    color : black;
+}
+
+.jenkins-icon {
+    color :  black;
+}
+
+.github-icon {
+    color : black;
+}
+
+.linux-icon {
+    color : black;
+}
 .flag-icon {
     line-height: 1.5em;
 }
