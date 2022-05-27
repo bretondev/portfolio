@@ -14,9 +14,10 @@ $( document ).ready(function() {
         var img = 'url(../assets/images/'+arr[i]+')';
         $(".full-bg").css('background-image',img); 
      
+        $('[data-toggle="popover"]').popover();
     }, 4000)
 
-    $('[data-toggle="popover"]').popover();
+    
 
 });
 
