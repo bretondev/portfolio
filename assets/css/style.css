@@ -25,6 +25,10 @@ a {
     color: blue;
 }
 
+.profile-box a {
+    color: white;
+}
+
 a:hover {
     color: #444;
 }
