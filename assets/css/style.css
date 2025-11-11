@@ -29,6 +29,12 @@ a {
     color: white;
 }
 
+#formationsenligne a {
+    color: blue;
+}
+
+
+
 a:hover {
     color: #444;
 }
